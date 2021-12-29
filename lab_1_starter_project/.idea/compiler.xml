@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="inpatient-management" />
+        <module name="lab_1_starter_project" />
         <module name="treinbegeleiding" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="inpatient-management" options="-parameters" />
+      <module name="lab_1_starter_project" options="-parameters" />
       <module name="treinbegeleiding" options="-parameters" />
     </option>
   </component>

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49fa18bc-ed22-4779-baf4-44e5b464a8ad" name="Changes" comment="" />
+    <list default="true" id="49fa18bc-ed22-4779-baf4-44e5b464a8ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Stijn/Systeemontwerp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -107,9 +111,17 @@
     <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="InpatientManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="treinbegeleiding" />
+    <configuration name="InpatientManagementApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab_1_starter_project" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="be.ugent.systemdesign.treinbegeleiding.InpatientManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InpatientManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab_1_starter_project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="be.ugent.systemdesign.treinbegeleiding.InpatientManagementApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,6 +162,7 @@
       <workItem from="1640728122785" duration="15538000" />
       <workItem from="1640744591029" duration="247000" />
       <workItem from="1640745004566" duration="154000" />
+      <workItem from="1640772168134" duration="614000" />
     </task>
     <servers />
   </component>
