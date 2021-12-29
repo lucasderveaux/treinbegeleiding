@@ -1,0 +1,8 @@
+GET http://api/treinen/stops
+
+###
+
+GET http://api/treinen/
+
+###
+
